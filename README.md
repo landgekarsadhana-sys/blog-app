@@ -55,3 +55,16 @@ Sadhana Landgekar
 
 ```
 ```
+## Screenshots
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+### Blog Posts Page
+
+![Posts](screenshots/posts.png)
+
+### MongoDB Collections
+
+![MongoDB](screenshots/mongo-collections.png)
